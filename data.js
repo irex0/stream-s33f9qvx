@@ -1,5 +1,13 @@
 window.videoData = [
   {
+    "id": "ac0c97a4-acb0-4501-a8a2-01cf2ed78026",
+    "title": "Jagadhatri 27th January 2026 Episode 78",
+    "description": "",
+    "date": "2026-01-28T04:27:11.149Z",
+    "playlist": "videos/ac0c97a4-acb0-4501-a8a2-01cf2ed78026/playlist.m3u8",
+    "thumbnail": "videos/ac0c97a4-acb0-4501-a8a2-01cf2ed78026/thumb.jpg"
+  },
+  {
     "id": "cb7023aa-16c2-4dda-a58b-be48e51a170f",
     "title": "Jagadhatri 25th January 2026 Episode 77",
     "description": "",
